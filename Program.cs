@@ -1,4 +1,5 @@
 using IdentityProject.Web.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +13,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 // Add Identity services to the container.
 builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<AppDbContext>();
+
+//builder.Services.AddScoped<UserManager<AppUser>>();
 
 var app = builder.Build();
 

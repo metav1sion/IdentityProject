@@ -28,13 +28,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\IdentityProject.Web.3itmo2tiic.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3itmo2tiic"},{"Name":"integrity","Value":"sha256-2\u002B5jQsNtl\u002BpF4vOAAOrZB019u71fJMzgAsa38EiG\u002Bj4="},{"Name":"label","Value":"_content/IdentityProject.Web/IdentityProject.Web.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1658"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222\u002B5jQsNtl\u002BpF4vOAAOrZB019u71fJMzgAsa38EiG\u002Bj4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 25 Jan 2025 13:03:32 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1658"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222\u002B5jQsNtl\u002BpF4vOAAOrZB019u71fJMzgAsa38EiG\u002Bj4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 25 Jan 2025 22:20:55 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/IdentityProject.Web/IdentityProject.Web.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\IdentityProject.Web.3itmo2tiic.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2\u002B5jQsNtl\u002BpF4vOAAOrZB019u71fJMzgAsa38EiG\u002Bj4="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1658"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222\u002B5jQsNtl\u002BpF4vOAAOrZB019u71fJMzgAsa38EiG\u002Bj4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 25 Jan 2025 13:03:32 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1658"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222\u002B5jQsNtl\u002BpF4vOAAOrZB019u71fJMzgAsa38EiG\u002Bj4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 25 Jan 2025 22:20:55 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/IdentityProject.Web/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>

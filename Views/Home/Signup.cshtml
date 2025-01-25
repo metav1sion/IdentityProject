@@ -3,9 +3,28 @@
 }
 @model SignupViewModel
 
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        <ul>
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+    </div>
+}
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-info"> 
+        @TempData["Message"]
+    </div>
+}
+
 <div class="signup-container">
     <div class="signup-title">Create an Account</div>
-    <form>
+    <form asp-asp-controller="Home" asp-action="Signup" method="post">
         <div class="form-group">
             <label asp-for="UserName">Username</label>
             <input asp-for="UserName" type="text" class="form-control" id="inputUsername" placeholder="Enter username">

@@ -4,6 +4,9 @@ namespace IdentityProject.Web.ViewModels;
 
 public class SignupViewModel
 {
+    public SignupViewModel()
+    {
+    }
     public SignupViewModel( string userName, string email, string password, string confirmPassword , string phoneNumber)
     {
         UserName = userName;
