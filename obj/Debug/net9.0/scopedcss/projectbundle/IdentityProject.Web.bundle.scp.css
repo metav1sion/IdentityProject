@@ -1,3 +1,29 @@
+/* _content/IdentityProject.Web/Views/Home/Signup.cshtml.rz.scp.css */
+
+body[b-b48ooxs0i0] {
+    background-color: #f8f9fa;
+}
+.signup-container[b-b48ooxs0i0] {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.signup-title[b-b48ooxs0i0] {
+    margin-bottom: 30px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+.form-group[b-b48ooxs0i0] {
+    margin-bottom: 20px;
+}
+.btn-signup[b-b48ooxs0i0] {
+    width: 100%;
+    padding: 10px;
+}
 /* _content/IdentityProject.Web/Views/Shared/_Layout.cshtml.rz.scp.css */
 /* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */

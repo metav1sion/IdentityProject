@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ryH4Wbqz0yaRgwehjMvjKZro8arnBTj+d/TIUjL0RVQ=",
+  "Hash": "51/maXPIB4iyYGIJDHODWP+YW/mIDHjN6c/6rIfxwGo=",
   "Source": "IdentityProject.Web",
   "BasePath": "_content/IdentityProject.Web",
   "Mode": "Default",
@@ -437,12 +437,12 @@
       "OriginalItemSpec": "/Users/metehansozen/repos/IdentityProject.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/9g9853sjbz-4kgo6l0hj5.gz",
+      "Identity": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/9g9853sjbz-3itmo2tiic.gz",
       "SourceId": "IdentityProject.Web",
       "SourceType": "Computed",
       "ContentRoot": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/IdentityProject.Web",
-      "RelativePath": "IdentityProject.Web#[.{fingerprint=4kgo6l0hj5}]?.styles.css.gz",
+      "RelativePath": "IdentityProject.Web#[.{fingerprint=3itmo2tiic}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -451,8 +451,8 @@
       "RelatedAsset": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/scopedcss/bundle/IdentityProject.Web.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "6lii0ojtzg",
-      "Integrity": "mv66d1ePMXheniYjwYldTjVh02FE6s2Uk3cp6J8c3+Y=",
+      "Fingerprint": "ipykgsdsxi",
+      "Integrity": "SkMhtL2KecDSCni7lrwK5e/OktUdNkWUqeULri+DhyI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/scopedcss/bundle/IdentityProject.Web.styles.css"
@@ -1130,12 +1130,12 @@
       "OriginalItemSpec": "/Users/metehansozen/repos/IdentityProject.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/s6lkztew16-4kgo6l0hj5.gz",
+      "Identity": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/s6lkztew16-3itmo2tiic.gz",
       "SourceId": "IdentityProject.Web",
       "SourceType": "Computed",
       "ContentRoot": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/IdentityProject.Web",
-      "RelativePath": "IdentityProject.Web#[.{fingerprint=4kgo6l0hj5}]!.bundle.scp.css.gz",
+      "RelativePath": "IdentityProject.Web#[.{fingerprint=3itmo2tiic}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -1144,8 +1144,8 @@
       "RelatedAsset": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/scopedcss/projectbundle/IdentityProject.Web.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "6lii0ojtzg",
-      "Integrity": "mv66d1ePMXheniYjwYldTjVh02FE6s2Uk3cp6J8c3+Y=",
+      "Fingerprint": "ipykgsdsxi",
+      "Integrity": "SkMhtL2KecDSCni7lrwK5e/OktUdNkWUqeULri+DhyI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/scopedcss/projectbundle/IdentityProject.Web.bundle.scp.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "4kgo6l0hj5",
-      "Integrity": "1OOD87MB5aR8M1iBVO4Gg+t8zKtjxS636eViQDBb0RA=",
+      "Fingerprint": "3itmo2tiic",
+      "Integrity": "2+5jQsNtl+pF4vOAAOrZB019u71fJMzgAsa38EiG+j4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/scopedcss/bundle/IdentityProject.Web.styles.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "4kgo6l0hj5",
-      "Integrity": "1OOD87MB5aR8M1iBVO4Gg+t8zKtjxS636eViQDBb0RA=",
+      "Fingerprint": "3itmo2tiic",
+      "Integrity": "2+5jQsNtl+pF4vOAAOrZB019u71fJMzgAsa38EiG+j4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/scopedcss/projectbundle/IdentityProject.Web.bundle.scp.css"
@@ -3324,13 +3324,13 @@
       ]
     },
     {
-      "Route": "IdentityProject.Web.4kgo6l0hj5.bundle.scp.css",
-      "AssetFile": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/s6lkztew16-4kgo6l0hj5.gz",
+      "Route": "IdentityProject.Web.3itmo2tiic.bundle.scp.css",
+      "AssetFile": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/s6lkztew16-3itmo2tiic.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001851851852"
+          "Quality": "0.001394700139"
         }
       ],
       "ResponseHeaders": [
@@ -3340,15 +3340,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "539"
+          "Value": "716"
         },
         {
           "Name": "ETag",
-          "Value": "\"mv66d1ePMXheniYjwYldTjVh02FE6s2Uk3cp6J8c3+Y=\""
+          "Value": "\"SkMhtL2KecDSCni7lrwK5e/OktUdNkWUqeULri+DhyI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 10:54:20 GMT"
+          "Value": "Sat, 25 Jan 2025 13:03:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3368,13 +3368,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"1OOD87MB5aR8M1iBVO4Gg+t8zKtjxS636eViQDBb0RA=\""
+          "Value": "W/\"2+5jQsNtl+pF4vOAAOrZB019u71fJMzgAsa38EiG+j4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4kgo6l0hj5"
+          "Value": "3itmo2tiic"
         },
         {
           "Name": "label",
@@ -3382,12 +3382,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1OOD87MB5aR8M1iBVO4Gg+t8zKtjxS636eViQDBb0RA="
+          "Value": "sha256-2+5jQsNtl+pF4vOAAOrZB019u71fJMzgAsa38EiG+j4="
         }
       ]
     },
     {
-      "Route": "IdentityProject.Web.4kgo6l0hj5.bundle.scp.css",
+      "Route": "IdentityProject.Web.3itmo2tiic.bundle.scp.css",
       "AssetFile": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/scopedcss/projectbundle/IdentityProject.Web.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3397,7 +3397,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1088"
+          "Value": "1658"
         },
         {
           "Name": "Content-Type",
@@ -3405,11 +3405,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1OOD87MB5aR8M1iBVO4Gg+t8zKtjxS636eViQDBb0RA=\""
+          "Value": "\"2+5jQsNtl+pF4vOAAOrZB019u71fJMzgAsa38EiG+j4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 10:54:20 GMT"
+          "Value": "Sat, 25 Jan 2025 13:03:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3419,7 +3419,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4kgo6l0hj5"
+          "Value": "3itmo2tiic"
         },
         {
           "Name": "label",
@@ -3427,13 +3427,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1OOD87MB5aR8M1iBVO4Gg+t8zKtjxS636eViQDBb0RA="
+          "Value": "sha256-2+5jQsNtl+pF4vOAAOrZB019u71fJMzgAsa38EiG+j4="
         }
       ]
     },
     {
-      "Route": "IdentityProject.Web.4kgo6l0hj5.bundle.scp.css.gz",
-      "AssetFile": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/s6lkztew16-4kgo6l0hj5.gz",
+      "Route": "IdentityProject.Web.3itmo2tiic.bundle.scp.css.gz",
+      "AssetFile": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/s6lkztew16-3itmo2tiic.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3442,7 +3442,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "539"
+          "Value": "716"
         },
         {
           "Name": "Content-Type",
@@ -3450,11 +3450,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mv66d1ePMXheniYjwYldTjVh02FE6s2Uk3cp6J8c3+Y=\""
+          "Value": "\"SkMhtL2KecDSCni7lrwK5e/OktUdNkWUqeULri+DhyI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 10:54:20 GMT"
+          "Value": "Sat, 25 Jan 2025 13:03:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3472,7 +3472,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4kgo6l0hj5"
+          "Value": "3itmo2tiic"
         },
         {
           "Name": "label",
@@ -3480,18 +3480,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mv66d1ePMXheniYjwYldTjVh02FE6s2Uk3cp6J8c3+Y="
+          "Value": "sha256-SkMhtL2KecDSCni7lrwK5e/OktUdNkWUqeULri+DhyI="
         }
       ]
     },
     {
-      "Route": "IdentityProject.Web.4kgo6l0hj5.styles.css",
-      "AssetFile": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/9g9853sjbz-4kgo6l0hj5.gz",
+      "Route": "IdentityProject.Web.3itmo2tiic.styles.css",
+      "AssetFile": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/9g9853sjbz-3itmo2tiic.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001851851852"
+          "Quality": "0.001394700139"
         }
       ],
       "ResponseHeaders": [
@@ -3501,15 +3501,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "539"
+          "Value": "716"
         },
         {
           "Name": "ETag",
-          "Value": "\"mv66d1ePMXheniYjwYldTjVh02FE6s2Uk3cp6J8c3+Y=\""
+          "Value": "\"SkMhtL2KecDSCni7lrwK5e/OktUdNkWUqeULri+DhyI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 10:54:20 GMT"
+          "Value": "Sat, 25 Jan 2025 13:03:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3529,13 +3529,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"1OOD87MB5aR8M1iBVO4Gg+t8zKtjxS636eViQDBb0RA=\""
+          "Value": "W/\"2+5jQsNtl+pF4vOAAOrZB019u71fJMzgAsa38EiG+j4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4kgo6l0hj5"
+          "Value": "3itmo2tiic"
         },
         {
           "Name": "label",
@@ -3543,12 +3543,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1OOD87MB5aR8M1iBVO4Gg+t8zKtjxS636eViQDBb0RA="
+          "Value": "sha256-2+5jQsNtl+pF4vOAAOrZB019u71fJMzgAsa38EiG+j4="
         }
       ]
     },
     {
-      "Route": "IdentityProject.Web.4kgo6l0hj5.styles.css",
+      "Route": "IdentityProject.Web.3itmo2tiic.styles.css",
       "AssetFile": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/scopedcss/bundle/IdentityProject.Web.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3558,7 +3558,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1088"
+          "Value": "1658"
         },
         {
           "Name": "Content-Type",
@@ -3566,11 +3566,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1OOD87MB5aR8M1iBVO4Gg+t8zKtjxS636eViQDBb0RA=\""
+          "Value": "\"2+5jQsNtl+pF4vOAAOrZB019u71fJMzgAsa38EiG+j4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 10:54:20 GMT"
+          "Value": "Sat, 25 Jan 2025 13:03:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3580,7 +3580,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4kgo6l0hj5"
+          "Value": "3itmo2tiic"
         },
         {
           "Name": "label",
@@ -3588,13 +3588,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1OOD87MB5aR8M1iBVO4Gg+t8zKtjxS636eViQDBb0RA="
+          "Value": "sha256-2+5jQsNtl+pF4vOAAOrZB019u71fJMzgAsa38EiG+j4="
         }
       ]
     },
     {
-      "Route": "IdentityProject.Web.4kgo6l0hj5.styles.css.gz",
-      "AssetFile": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/9g9853sjbz-4kgo6l0hj5.gz",
+      "Route": "IdentityProject.Web.3itmo2tiic.styles.css.gz",
+      "AssetFile": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/9g9853sjbz-3itmo2tiic.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3603,7 +3603,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "539"
+          "Value": "716"
         },
         {
           "Name": "Content-Type",
@@ -3611,11 +3611,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mv66d1ePMXheniYjwYldTjVh02FE6s2Uk3cp6J8c3+Y=\""
+          "Value": "\"SkMhtL2KecDSCni7lrwK5e/OktUdNkWUqeULri+DhyI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 10:54:20 GMT"
+          "Value": "Sat, 25 Jan 2025 13:03:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3633,7 +3633,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4kgo6l0hj5"
+          "Value": "3itmo2tiic"
         },
         {
           "Name": "label",
@@ -3641,18 +3641,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mv66d1ePMXheniYjwYldTjVh02FE6s2Uk3cp6J8c3+Y="
+          "Value": "sha256-SkMhtL2KecDSCni7lrwK5e/OktUdNkWUqeULri+DhyI="
         }
       ]
     },
     {
       "Route": "IdentityProject.Web.bundle.scp.css",
-      "AssetFile": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/s6lkztew16-4kgo6l0hj5.gz",
+      "AssetFile": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/s6lkztew16-3itmo2tiic.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001851851852"
+          "Quality": "0.001394700139"
         }
       ],
       "ResponseHeaders": [
@@ -3662,15 +3662,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "539"
+          "Value": "716"
         },
         {
           "Name": "ETag",
-          "Value": "\"mv66d1ePMXheniYjwYldTjVh02FE6s2Uk3cp6J8c3+Y=\""
+          "Value": "\"SkMhtL2KecDSCni7lrwK5e/OktUdNkWUqeULri+DhyI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 10:54:20 GMT"
+          "Value": "Sat, 25 Jan 2025 13:03:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3690,13 +3690,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"1OOD87MB5aR8M1iBVO4Gg+t8zKtjxS636eViQDBb0RA=\""
+          "Value": "W/\"2+5jQsNtl+pF4vOAAOrZB019u71fJMzgAsa38EiG+j4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1OOD87MB5aR8M1iBVO4Gg+t8zKtjxS636eViQDBb0RA="
+          "Value": "sha256-2+5jQsNtl+pF4vOAAOrZB019u71fJMzgAsa38EiG+j4="
         }
       ]
     },
@@ -3711,7 +3711,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1088"
+          "Value": "1658"
         },
         {
           "Name": "Content-Type",
@@ -3719,11 +3719,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1OOD87MB5aR8M1iBVO4Gg+t8zKtjxS636eViQDBb0RA=\""
+          "Value": "\"2+5jQsNtl+pF4vOAAOrZB019u71fJMzgAsa38EiG+j4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 10:54:20 GMT"
+          "Value": "Sat, 25 Jan 2025 13:03:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3733,13 +3733,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1OOD87MB5aR8M1iBVO4Gg+t8zKtjxS636eViQDBb0RA="
+          "Value": "sha256-2+5jQsNtl+pF4vOAAOrZB019u71fJMzgAsa38EiG+j4="
         }
       ]
     },
     {
       "Route": "IdentityProject.Web.bundle.scp.css.gz",
-      "AssetFile": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/s6lkztew16-4kgo6l0hj5.gz",
+      "AssetFile": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/s6lkztew16-3itmo2tiic.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3748,7 +3748,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "539"
+          "Value": "716"
         },
         {
           "Name": "Content-Type",
@@ -3756,11 +3756,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mv66d1ePMXheniYjwYldTjVh02FE6s2Uk3cp6J8c3+Y=\""
+          "Value": "\"SkMhtL2KecDSCni7lrwK5e/OktUdNkWUqeULri+DhyI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 10:54:20 GMT"
+          "Value": "Sat, 25 Jan 2025 13:03:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3778,18 +3778,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mv66d1ePMXheniYjwYldTjVh02FE6s2Uk3cp6J8c3+Y="
+          "Value": "sha256-SkMhtL2KecDSCni7lrwK5e/OktUdNkWUqeULri+DhyI="
         }
       ]
     },
     {
       "Route": "IdentityProject.Web.styles.css",
-      "AssetFile": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/9g9853sjbz-4kgo6l0hj5.gz",
+      "AssetFile": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/9g9853sjbz-3itmo2tiic.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001851851852"
+          "Quality": "0.001394700139"
         }
       ],
       "ResponseHeaders": [
@@ -3799,15 +3799,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "539"
+          "Value": "716"
         },
         {
           "Name": "ETag",
-          "Value": "\"mv66d1ePMXheniYjwYldTjVh02FE6s2Uk3cp6J8c3+Y=\""
+          "Value": "\"SkMhtL2KecDSCni7lrwK5e/OktUdNkWUqeULri+DhyI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 10:54:20 GMT"
+          "Value": "Sat, 25 Jan 2025 13:03:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3827,13 +3827,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"1OOD87MB5aR8M1iBVO4Gg+t8zKtjxS636eViQDBb0RA=\""
+          "Value": "W/\"2+5jQsNtl+pF4vOAAOrZB019u71fJMzgAsa38EiG+j4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1OOD87MB5aR8M1iBVO4Gg+t8zKtjxS636eViQDBb0RA="
+          "Value": "sha256-2+5jQsNtl+pF4vOAAOrZB019u71fJMzgAsa38EiG+j4="
         }
       ]
     },
@@ -3848,7 +3848,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1088"
+          "Value": "1658"
         },
         {
           "Name": "Content-Type",
@@ -3856,11 +3856,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1OOD87MB5aR8M1iBVO4Gg+t8zKtjxS636eViQDBb0RA=\""
+          "Value": "\"2+5jQsNtl+pF4vOAAOrZB019u71fJMzgAsa38EiG+j4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 10:54:20 GMT"
+          "Value": "Sat, 25 Jan 2025 13:03:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3870,13 +3870,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1OOD87MB5aR8M1iBVO4Gg+t8zKtjxS636eViQDBb0RA="
+          "Value": "sha256-2+5jQsNtl+pF4vOAAOrZB019u71fJMzgAsa38EiG+j4="
         }
       ]
     },
     {
       "Route": "IdentityProject.Web.styles.css.gz",
-      "AssetFile": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/9g9853sjbz-4kgo6l0hj5.gz",
+      "AssetFile": "/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/9g9853sjbz-3itmo2tiic.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3885,7 +3885,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "539"
+          "Value": "716"
         },
         {
           "Name": "Content-Type",
@@ -3893,11 +3893,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mv66d1ePMXheniYjwYldTjVh02FE6s2Uk3cp6J8c3+Y=\""
+          "Value": "\"SkMhtL2KecDSCni7lrwK5e/OktUdNkWUqeULri+DhyI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 10:54:20 GMT"
+          "Value": "Sat, 25 Jan 2025 13:03:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3915,7 +3915,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mv66d1ePMXheniYjwYldTjVh02FE6s2Uk3cp6J8c3+Y="
+          "Value": "sha256-SkMhtL2KecDSCni7lrwK5e/OktUdNkWUqeULri+DhyI="
         }
       ]
     },

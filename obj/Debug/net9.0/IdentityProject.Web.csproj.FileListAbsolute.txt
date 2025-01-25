@@ -79,8 +79,6 @@
 /Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/c1bb4xjpur-muycvpuwrr.gz
 /Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/ed2u6q0nax-87fc7y1x7t.gz
 /Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/t0a4r3173x-mlv21k5csn.gz
-/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/9g9853sjbz-4kgo6l0hj5.gz
-/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/s6lkztew16-4kgo6l0hj5.gz
 /Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/staticwebassets.build.json
 /Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/staticwebassets.development.json
 /Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -234,3 +232,7 @@
 /Users/metehansozen/repos/IdentityProject.Web/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /Users/metehansozen/repos/IdentityProject.Web/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /Users/metehansozen/repos/IdentityProject.Web/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/IdentityProject.Web.sourcelink.json
+/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/scopedcss/Views/Home/Signup.cshtml.rz.scp.css
+/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/9g9853sjbz-3itmo2tiic.gz
+/Users/metehansozen/repos/IdentityProject.Web/obj/Debug/net9.0/compressed/s6lkztew16-3itmo2tiic.gz

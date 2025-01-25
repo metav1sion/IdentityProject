@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IdentityProject.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec5ca80ee2e167526672c1b5ae988d1a2c8c5c88")]
 [assembly: System.Reflection.AssemblyProductAttribute("IdentityProject.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IdentityProject.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
